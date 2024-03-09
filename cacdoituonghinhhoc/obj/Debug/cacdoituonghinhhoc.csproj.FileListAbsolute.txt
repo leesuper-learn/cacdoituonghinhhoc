@@ -1,0 +1,7 @@
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\bin\Debug\cacdoituonghinhhoc.exe.config
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\bin\Debug\cacdoituonghinhhoc.exe
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\bin\Debug\cacdoituonghinhhoc.pdb
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\obj\Debug\cacdoituonghinhhoc.csproj.AssemblyReference.cache
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\obj\Debug\cacdoituonghinhhoc.csproj.CoreCompileInputs.cache
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\obj\Debug\cacdoituonghinhhoc.exe
+E:\C#\online\W06\kethua\cacdoituonghinhhoc\cacdoituonghinhhoc\obj\Debug\cacdoituonghinhhoc.pdb

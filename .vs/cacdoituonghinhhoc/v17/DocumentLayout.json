@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\online\\W06\\kethua\\cacdoituonghinhhoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49704570-7E56-4840-9A28-7C13D74F556F}|cacdoituonghinhhoc\\cacdoituonghinhhoc.csproj|e:\\c#\\online\\w06\\kethua\\cacdoituonghinhhoc\\cacdoituonghinhhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49704570-7E56-4840-9A28-7C13D74F556F}|cacdoituonghinhhoc\\cacdoituonghinhhoc.csproj|solutionrelative:cacdoituonghinhhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\online\\W06\\kethua\\cacdoituonghinhhoc\\cacdoituonghinhhoc\\Program.cs",
+              "RelativeDocumentMoniker": "cacdoituonghinhhoc\\Program.cs",
+              "ToolTip": "E:\\C#\\online\\W06\\kethua\\cacdoituonghinhhoc\\cacdoituonghinhhoc\\Program.cs",
+              "RelativeToolTip": "cacdoituonghinhhoc\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T06:32:51.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
